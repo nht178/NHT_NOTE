@@ -1,1 +1,25 @@
 https://stackoverflow.com/questions/71199143/action-required-your-app-is-not-compliant-with-google-play-policies-what-is-t
+
+We found an issue in the following area(s):
+
+    APK 25: Policy Declaration - Data Safety Section: Device Or Other IDs Data Type - Device Or Other IDs (some common examples may include Advertising ID, Android ID, IMEI, BSSID)
+
+About the Data safety section in Google Play User Data policy
+
+
+Issue details
+
+We found an issue in the following area(s):
+
+    SPLIT_BUNDLE 22: Policy Declaration - Data Safety Section: Device Or Other IDs Data Type - Device Or Other IDs (some common examples may include Advertising ID, Android ID, IMEI, BSSID)
+
+About the Data safety section in Google Play User Data policy
+
+
+https://developer.android.com/google/play/billing/deprecation-faq
+Phiên bản Thư viện Play Billing không còn sử dụng được nữa 
+1 thg 9, 2022 5:18
+
+Chúng tôi nhận thấy ứng dụng này đang sử dụng một phiên bản Google Play Billing đã cũ. Từ ngày 1 tháng 11, 2022, tất cả bản cập nhật ứng dụng đều phải sử dụng Thư viện Billing phiên bản 4 trở lên.
+
+Việc cần làm: Vui lòng xác minh rằng các tệp APK hiện có công khai của bạn đã được cập nhật lên phiên bản Thư viện Play Billing mới nhất. Phạm vi bao gồm cả mọi tệp APK hoặc gói ứng dụng đã ra mắt bản phát hành công khai.
